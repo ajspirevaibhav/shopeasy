@@ -1,2 +1,2 @@
 # shopeasy
-an eccomerce site
+an eCommerce site
